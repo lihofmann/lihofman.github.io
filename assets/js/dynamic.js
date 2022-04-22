@@ -1,6 +1,8 @@
 
-this.onload = function() {buttonsWhereNeeded()};
+this.onload = function() {buttonsWhereNeeded();};
 window.onresize = function() {buttonsWhereNeeded()};
+
+document.getElementById("btn").addEventListener("click", alert("hallo"));
 
 // scroll progess indicator
 
@@ -60,5 +62,19 @@ window.onscroll = function() {showProgress()};
    function isOverflown(element) {
      return element.scrollHeight > element.clientHeight;
    }
+
+// modal
+   function toggleModall(name) {
+      var myModal = new bootstrap.Modal(document.getElementById(name));
+      myModal.show();
+   }
+
+      function closeModall(name) {
+         var myModal = document.getElementById(name);
+         myModal.hide();
+      }
+
+
+
 
    
