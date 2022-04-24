@@ -1,3 +1,3 @@
 # This is my personal website
 
-## [https://lihofmann.github.io](Check it out here)
+## Check it out [https://lihofmann.github.io](here)
