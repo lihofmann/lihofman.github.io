@@ -1,3 +1,3 @@
-# Coming soon at this address
+# This is my personal website
 
-## Check out my website at: [people.ucsc.edu/~lihofman](people.ucsc.edu/~lihofman)
+## [https://lihofmann.github.io](Check it out here)
