@@ -409,6 +409,11 @@
 		margin-bottom: 2rem;
 	}
 
+	.card-text-container-full {
+		position: relative;
+		margin-bottom: 2rem;
+	}
+
 	.card-text-fadeout {
 		position: absolute;
 		bottom: 0;
