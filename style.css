@@ -404,12 +404,6 @@
 	    overflow: hidden;	
 	}
 
-	.card-body-full {
-		position: relative;
-	    flex: 2;
-	    padding: 0 0 0 1.25rem;
-	}
-
 	.card-text-container {
 		position: absolute;
 		margin-bottom: 2rem;
